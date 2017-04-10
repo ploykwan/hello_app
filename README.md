@@ -6,4 +6,4 @@ This is the first application for the
 
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 
-by [Insert your name here]. Hello, world!
+by Kwankaew Uttama. Hello, world!
